@@ -8,42 +8,42 @@ By Ali Ranjbari
 
 ### Login and Logout:
 
-* login <username> <pass>
+* login {username} {password}
 * logout
 
 
 ### Signup:
 
-* signup <username> <password> <phone_number>
-* edit_username <new username>
-* edit_pass <new password>
+* signup {username} {password} {phone_number}
+* edit_username {new username}
+* edit_pass {new password}
 
 
 ### Send message:
 
-* send <username> <content>
+* send {username} {content}
 
 
 ### Show user informations:
 
 * info
-* about <username>
+* about {username}
 
 
 ### Show Recieved messages:
 
-* show_recieved <username>
+* show_recieved {username}
   
 
 ### Show Sent messages:
 
-* show_sent <username>
+* show_sent {username}
 
 
 ### Create Group and add member:
 
-* create_group <group_name>
-* add_to <group name> <username>
+* create_group {group_name}
+* add_to {group name} {username}
 
 
 ### Exit:
